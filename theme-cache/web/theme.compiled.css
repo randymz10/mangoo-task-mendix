@@ -27756,4 +27756,9 @@ Do not render = "none"
   z-index: 1000001;
 }
 
+.completed {
+  transition: 500ms;
+  text-decoration: line-through;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */

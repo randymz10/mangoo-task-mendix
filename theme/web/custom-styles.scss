@@ -1,0 +1,6 @@
+@import 'custom-variables';
+
+.completed {
+    transition: 500ms;
+    text-decoration: line-through;
+}
